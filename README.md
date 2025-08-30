@@ -9,7 +9,7 @@ A clean, lightweight HTML/CSS-based demonstration of the **parallax scrolling ef
 ---
 
 ##  Preview
-Screenshot wont capture the effect demonstration so better open the link...Your one click, and one scroll far 
+Screenshot wont capture the effect demonstration so better open the link...You are one click, and one scroll far 
 ---
 
 ##  Features
